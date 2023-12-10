@@ -1,0 +1,25 @@
+* {
+    font-family: "Lucida Console", sans-serif;
+}
+
+hr {
+    border-top: 1px solid;
+}
+
+.end{
+    color:black;
+    border: 1px black solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    float: left;
+}
+
+h1{
+    border-bottom: 1px solid gray;
+    padding-bottom: 1rem;
+}
+
+li{
+    margin: 5px;
+}
